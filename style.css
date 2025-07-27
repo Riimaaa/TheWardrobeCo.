@@ -1,0 +1,76 @@
+.navbar{
+    background-color: #faf6e5;
+}
+
+.collapse{
+    background-color: #fcfaf4f0;
+}
+
+.logo img{
+    height: 50px;
+}
+
+.card{
+    margin-top: 10px;
+    
+}
+.kid{
+  color: #222; /* default color */
+  transition: color 0.3s ease; /* smooth color change */
+  cursor: pointer;
+}
+.kid:hover {
+  color: #EAC8A6; /* Bootstrap's pink shade or choose your own */
+}
+
+.butt{
+    background-color: #f5f3ea;
+}
+
+.butt:hover{
+    background-color: rgba(239, 5, 5, 0.959);
+}
+
+.foot{
+    margin-top: 15px;
+    background-color: #DC3C22;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.foot:hover{
+    background-color: #c4331d;
+}
+
+.foot-mid{
+    background-color: #a82916;   
+}
+
+.footer-link {
+    color: #faf6e5;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: #faf6e5;
+    text-decoration: underline;
+}
+
+.col{
+    margin-top: 40px;
+}
+
+.footm{
+    margin: 0 auto;
+    max-width: 1100px; 
+}
+
+.text{
+    color: #faf6e5;
+}
+
+.head li a{
+    text-decoration: none;
+    color: #222;
+}
